@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@leandher__bessa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leandher_bessa)](https://twitter.com/leandher_bessa) [![Linkedin Badge](https://img.shields.io/badge/-Leandher_Bessa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandher-bessa-65303b128/)](https://www.linkedin.com/in/leandher-bessa-65303b128/)
 [![Gmail Badge](https://img.shields.io/badge/-leandhersantos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandhersantos@gmail.com)](mailto:leandhersantos@gmail.com)
 
-I am Leandher Bessa :rocket:. I am from Fortaleza - CE, Brazil, and currently currently working on [IZI App](https://izi.app/). I am a Fullstack Developer with +5 years of experience, I love to study and learn new things, exchange work and study experience with people around me and share my knowledge with the ones who want it. I work with Web and Mobile Development since 2016. I started with Angular and Java Spring and then I migrate to React ecosystem, RN and Node.js. I really enjoy new challenges, do you have any?
+I am Leandher Bessa :rocket:. I am from Fortaleza - CE, Brazil, and currently currently working on [IZI App](https://izi.app/). I am a Fullstack Developer with +7 years of experience, I love to study and learn new things, exchange work and study experience with people around me and share my knowledge with the ones who want it. I work with Web and Mobile Development since 2016. I started with Angular and Java Spring and then I migrate to React ecosystem, RN and Node.js. I really enjoy new challenges, do you have any?
 
 ## ⚡ Technologies
 - Front-end development using **React ecosystem :rocket:**
